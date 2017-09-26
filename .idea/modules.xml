@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SRM 144 DIV 1/SRM 144 DIV 1.iml" filepath="$PROJECT_DIR$/SRM 144 DIV 1/SRM 144 DIV 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRM 579 DIV 2/SRM 579 DIV 2.iml" filepath="$PROJECT_DIR$/SRM 579 DIV 2/SRM 579 DIV 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Round Match 680/Single Round Match 680.iml" filepath="$PROJECT_DIR$/Single Round Match 680/Single Round Match 680.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Round Match 684/Single Round Match 684.iml" filepath="$PROJECT_DIR$/Single Round Match 684/Single Round Match 684.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Round Match 688/Single Round Match 688.iml" filepath="$PROJECT_DIR$/Single Round Match 688/Single Round Match 688.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Round Match 705 Sponsored by Blizzard/Single Round Match 705 Sponsored by Blizzard.iml" filepath="$PROJECT_DIR$/Single Round Match 705 Sponsored by Blizzard/Single Round Match 705 Sponsored by Blizzard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single Round Match 719/Single Round Match 719.iml" filepath="$PROJECT_DIR$/Single Round Match 719/Single Round Match 719.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topcoder/topcoder.iml" filepath="$PROJECT_DIR$/topcoder/topcoder.iml" />
+    </modules>
+  </component>
+</project>
